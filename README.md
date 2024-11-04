@@ -24,7 +24,7 @@ This application **Planto** helps plant enthusiasts manage and keep track of the
 
 
 ## Features <a name="features"></a>
-* Add Reminders: Set specific care reminders for each plant with details on watering and sunlight needs, and Its location inside the house .
+* Add Reminders: Set specific care reminders for each plant with details on watering and sunlight needs, and Its location inside the house.
 * Update Plant Info: Easily edit and update plant details as they grow or require changes.
 * Delete Reminders: Remove reminders for plants no longer in your collection.
 * Daily Care Overview: View a daily list of all care tasks to be completed.
